@@ -16,7 +16,7 @@
 				<texture>tints/black-30.png</texture>
 			</control>
 		<control type="group">
-			<posx>400</posx>
+			<posx>-290r</posx>
 			<posy>590</posy>
 			
 			<!-- <control type="image">
