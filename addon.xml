@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="skin.confluenceforxbian"
-  version="0.5.1"
+  version="1.0.1"
   name="Confluence for xbian"
-  provider-name="xbianonpi (Credits to Jezz_X, Team XBMC)">
+  provider-name="xbianonpi (Credits to Jezz_X, Team XBMC, MYETRO)">
   <requires>
     <import addon="xbmc.gui" version="4.0.0"/>
   </requires>
