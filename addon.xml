@@ -5,7 +5,7 @@
   name="Confluence for xbian"
   provider-name="xbianonpi (Credits to Jezz_X, Team XBMC, MYETRO)">
   <requires>
-    <import addon="xbmc.gui" version="4.0.0"/>
+    <import addon="xbmc.gui" version="5.0.0"/>
   </requires>
   <extension
     point="xbmc.gui.skin"
